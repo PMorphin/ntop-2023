@@ -8,7 +8,8 @@
 2) apt-get install python3 python3-pip git # python3, python3-pip and git installed
 3) git clone https:/github.com/pmorphin/ntop-2023.git
 4) cd ntop-2023
-5) pip3 install -r requirements.txt 
+5) pip3 install -r requirements.txt
+6) jupyter notebook
 ```
 
 ### Run ntopng live mode
